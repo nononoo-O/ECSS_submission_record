@@ -52,3 +52,13 @@ Status Date变为`Oct 27, 2026`，Current Status变为`Under Review`
 
 
 
+### 2026年11月26日
+
+<img src="./images/2026-11-26.png" alt="状态4" style="zoom: 50%;" align='left' />
+
+`2`位审稿人接受邀请，`1`位审稿人评审完成
+
+------
+
+
+
